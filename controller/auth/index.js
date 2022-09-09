@@ -41,7 +41,6 @@ async function Login(req, res) {
               email: result[0].email,
               password: result[0].password,
               type: result[0].type,
-              contact: result[0].contact,
               registerDate: result[0].registerDate,
               username: result[0].username,
               profilePicture: result[0].profilePicture,
