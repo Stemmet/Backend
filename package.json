@@ -7,17 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Stemmet/Backend.git"
-  },
+
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Stemmet/Backend/issues"
-  },
-  "homepage": "https://github.com/Stemmet/Backend#readme",
+ 
+  
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
